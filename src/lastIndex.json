@@ -1,0 +1,14 @@
+{
+  "ytn": {
+    "index": [3241, 8022, 242],
+    "suffix": [
+      "?s_mcd=0206\u0026s_hcd=15",
+      "?s_mcd=0214\u0026s_hcd=01",
+      "?s_mcd=0320\u0026s_hcd=09"
+    ]
+  },
+  "imbc": {
+    "index": [10138, 6682, 1494],
+    "suffix": ["look/interview/", "worldnus/interview/", "newsplaza/interview/"]
+  }
+}
